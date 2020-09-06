@@ -9,3 +9,4 @@ temp/*
 !temp/.gitkeep
 # ignore files in folder
 uploads/*
+!uploads/.gitkeep
